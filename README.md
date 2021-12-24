@@ -24,7 +24,7 @@ fun(k)
 ```
 
 ## Output:
-![exponentiation of a number](exponent.png)
+![OutPut](Exponent.png)
 
 
 ## Result:
